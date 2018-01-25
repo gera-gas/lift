@@ -1,0 +1,6 @@
+[submodule "dependencies/state_machine"]
+	path = dependencies/state_machine
+	url = https://github.com/gera-gas/state_machine.git
+[submodule "dependencies/ApplicationHelpers"]
+	path = dependencies/ApplicationHelpers
+	url = https://github.com/gera-gas/ApplicationHelpers.git
